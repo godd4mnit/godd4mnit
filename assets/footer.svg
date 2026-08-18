@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240"><rect width="1200" height="240" rx="28" fill="#05020a"/><text x="600" y="78" text-anchor="middle" fill="#ff49dc" font-family="Arial Black" font-size="38">🚪 THANKS FOR VISITING THE CLUB 🚪</text><text x="600" y="132" text-anchor="middle" fill="#6ff7ff" font-family="monospace" font-size="22">YOU SURVIVED DUNG.EXE — AFTER DARK</text><text x="600" y="190" text-anchor="middle" fill="#fff" font-family="monospace" font-size="18">★ STAR THE REPO • STEAL THE VIBES • DON'T DEPLOY ON FRIDAY ★</text><circle cx="90" cy="120" r="12" fill="#ff2bd6"><animate attributeName="r" values="8;16;8" dur="1s" repeatCount="indefinite"/></circle><circle cx="1110" cy="120" r="12" fill="#00f6ff"><animate attributeName="r" values="16;8;16" dur="1s" repeatCount="indefinite"/></circle></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141c2b"/><stop offset="1" stop-color="#070910"/>
+    </linearGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1b2434" stroke-width="1"/>
+    </pattern>
+    <clipPath id="fc"><rect width="1200" height="210" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#fc)">
+    <rect width="1200" height="210" fill="url(#fbg)"/>
+    <rect width="1200" height="210" fill="url(#fgrid)"/>
+    <text x="600" y="80" text-anchor="middle" fill="#ffffff" font-family="'Arial Black','Segoe UI Black',Impact,sans-serif" font-size="42">IT COMPILED. SHIP IT.</text>
+    <text x="600" y="122" text-anchor="middle" fill="#ff2e7e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19">no tests were harmed in the making of this repo</text>
+    <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6d7d95">
+      <text x="600" y="162" text-anchor="middle">star the repo <tspan fill="#48d597">/</tspan> steal the memes <tspan fill="#48d597">/</tspan> never deploy on friday</text>
+      <text x="600" y="188" text-anchor="middle" fill="#4a5871">exit code 0 (somehow)</text>
+    </g>
+    <circle cx="70" cy="105" r="10" fill="#ff2e7e"><animate attributeName="r" values="7;14;7" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1130" cy="105" r="10" fill="#00e7ff"><animate attributeName="r" values="14;7;14" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

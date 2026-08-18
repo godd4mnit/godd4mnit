@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="464" viewBox="0 0 1100 464" role="img" aria-label="skill levels">
+<rect width="1100" height="464" rx="18" fill="#0b0f18" stroke="#2c3a52"/>
+<text x="40" y="54" fill="#e8eefb" font-family="'Arial Black','Segoe UI Black',Impact,sans-serif" font-size="27">SKILL TREE</text>
+<text x="40" y="80" fill="#6d7d95" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15">// peer-reviewed by nobody</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">
+<text x="40" y="123" fill="#c2cee0">Googling</text>
+<rect x="470" y="105" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="105" width="534.6" height="18" rx="9" fill="#ff2e7e"><animate attributeName="width" from="0" to="534.6" dur="1.5s" begin="0.0s" fill="freeze"/></rect>
+<text x="1028" y="123" fill="#ff2e7e" font-weight="700">99%</text>
+<text x="40" y="163" fill="#c2cee0">Copy-pasting from Stack Overflow</text>
+<rect x="470" y="145" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="145" width="523.8" height="18" rx="9" fill="#ff2e7e"><animate attributeName="width" from="0" to="523.8" dur="1.5s" begin="0.12s" fill="freeze"/></rect>
+<text x="1028" y="163" fill="#ff2e7e" font-weight="700">97%</text>
+<text x="40" y="203" fill="#c2cee0">console.log() debugging</text>
+<rect x="470" y="185" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="185" width="507.6" height="18" rx="9" fill="#ff2e7e"><animate attributeName="width" from="0" to="507.6" dur="1.5s" begin="0.24s" fill="freeze"/></rect>
+<text x="1028" y="203" fill="#ff2e7e" font-weight="700">94%</text>
+<text x="40" y="243" fill="#c2cee0">Saying "works on my machine"</text>
+<rect x="470" y="225" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="225" width="540.0" height="18" rx="9" fill="#ff2e7e"><animate attributeName="width" from="0" to="540.0" dur="1.5s" begin="0.36s" fill="freeze"/></rect>
+<text x="1028" y="243" fill="#ff2e7e" font-weight="700">100%</text>
+<text x="40" y="283" fill="#c2cee0">Blaming the intern</text>
+<rect x="470" y="265" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="265" width="383.4" height="18" rx="9" fill="#ffb02e"><animate attributeName="width" from="0" to="383.4" dur="1.5s" begin="0.48s" fill="freeze"/></rect>
+<text x="1028" y="283" fill="#ffb02e" font-weight="700">71%</text>
+<text x="40" y="323" fill="#c2cee0">Naming variables</text>
+<rect x="470" y="305" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="305" width="124.2" height="18" rx="9" fill="#ffb02e"><animate attributeName="width" from="0" to="124.2" dur="1.5s" begin="0.6s" fill="freeze"/></rect>
+<text x="1028" y="323" fill="#ffb02e" font-weight="700">23%</text>
+<text x="40" y="363" fill="#c2cee0">Writing tests</text>
+<rect x="470" y="345" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="345" width="59.4" height="18" rx="9" fill="#00e7ff"><animate attributeName="width" from="0" to="59.4" dur="1.5s" begin="0.72s" fill="freeze"/></rect>
+<text x="1028" y="363" fill="#00e7ff" font-weight="700">11%</text>
+<text x="40" y="403" fill="#c2cee0">Reading the docs</text>
+<rect x="470" y="385" width="540" height="18" rx="9" fill="#161d2b"/>
+<rect x="470" y="385" width="32.4" height="18" rx="9" fill="#00e7ff"><animate attributeName="width" from="0" to="32.4" dur="1.5s" begin="0.84s" fill="freeze"/></rect>
+<text x="1028" y="403" fill="#00e7ff" font-weight="700">6%</text>
+</g></svg>

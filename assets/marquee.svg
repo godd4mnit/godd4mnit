@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="tech stack marquee">
+  <defs>
+    <clipPath id="m"><rect width="1200" height="96" rx="16"/></clipPath>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#070910"/>
+      <stop offset="0.06" stop-color="#070910" stop-opacity="0"/>
+      <stop offset="0.94" stop-color="#070910" stop-opacity="0"/>
+      <stop offset="1" stop-color="#070910"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="96" rx="16" fill="#0b0f18" stroke="#2c3a52"/>
+  <g clip-path="url(#m)">
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="700" fill="#e8eefb">
+      <text x="0" y="60" textLength="1700" lengthAdjust="spacing">TYPESCRIPT <tspan fill="#ff2e7e">/</tspan> NODE.JS <tspan fill="#ff2e7e">/</tspan> NESTJS <tspan fill="#ff2e7e">/</tspan> REACT <tspan fill="#ff2e7e">/</tspan> DOCKER <tspan fill="#ff2e7e">/</tspan> POSTGRES <tspan fill="#ff2e7e">/</tspan> REDIS <tspan fill="#ff2e7e">/</tspan> AWS <tspan fill="#ff2e7e">/</tspan> GIT BLAME <tspan fill="#ff2e7e">/</tspan> COFFEE <tspan fill="#ff2e7e">/</tspan> RAGE <tspan fill="#ff2e7e">/</tspan> </text>
+      <text x="1700" y="60" textLength="1700" lengthAdjust="spacing">TYPESCRIPT <tspan fill="#ff2e7e">/</tspan> NODE.JS <tspan fill="#ff2e7e">/</tspan> NESTJS <tspan fill="#ff2e7e">/</tspan> REACT <tspan fill="#ff2e7e">/</tspan> DOCKER <tspan fill="#ff2e7e">/</tspan> POSTGRES <tspan fill="#ff2e7e">/</tspan> REDIS <tspan fill="#ff2e7e">/</tspan> AWS <tspan fill="#ff2e7e">/</tspan> GIT BLAME <tspan fill="#ff2e7e">/</tspan> COFFEE <tspan fill="#ff2e7e">/</tspan> RAGE <tspan fill="#ff2e7e">/</tspan> </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1700 0" dur="22s" repeatCount="indefinite"/>
+    </g>
+    <rect width="1200" height="96" fill="url(#fade)"/>
+  </g>
+</svg>

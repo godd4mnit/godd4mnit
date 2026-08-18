@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-label="this is fine">
+<defs>
+<linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#3a1206"/><stop offset="0.55" stop-color="#1d0a05"/><stop offset="1" stop-color="#0e0503"/>
+</linearGradient>
+<radialGradient id="glow" cx="50%" cy="95%" r="65%">
+  <stop offset="0" stop-color="#ff7a1a" stop-opacity="0.42"/><stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="c"><rect width="1100" height="340" rx="18"/></clipPath>
+<symbol id="flame" viewBox="0 0 40 60">
+  <path d="M20 60 C2 48 6 30 14 18 C15 26 20 28 21 22 C28 30 38 44 20 60Z" fill="#ff6a1a"/>
+  <path d="M20 60 C10 51 12 38 18 30 C19 36 22 37 23 33 C27 39 30 50 20 60Z" fill="#ffc23d"/>
+</symbol>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1100" height="340" fill="url(#room)"/>
+  <rect width="1100" height="340" fill="url(#glow)"/>
+  <rect y="298" width="1100" height="42" fill="#160806"/>
+
+  <!-- dog -->
+  <g>
+    <ellipse cx="290" cy="272" rx="54" ry="42" fill="#d99b3c"/>
+    <ellipse cx="252" cy="186" rx="14" ry="24" fill="#c1852c" transform="rotate(-22 252 186)"/>
+    <ellipse cx="328" cy="186" rx="14" ry="24" fill="#c1852c" transform="rotate(22 328 186)"/>
+    <circle cx="290" cy="200" r="43" fill="#e8b551"/>
+    <ellipse cx="290" cy="219" rx="21" ry="15" fill="#f6dfae"/>
+    <ellipse cx="290" cy="211" rx="6.5" ry="5" fill="#3b2a17"/>
+    <path d="M281 224 Q290 232 299 224" fill="none" stroke="#3b2a17" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="273" cy="195" r="4.4" fill="#2e2113"/><circle cx="307" cy="195" r="4.4" fill="#2e2113"/>
+    <path d="M259 167 Q264 130 290 128 Q316 130 321 167 Z" fill="#c9832f"/>
+    <ellipse cx="290" cy="167" rx="63" ry="12" fill="#b0701f"/>
+    <rect x="259" y="155" width="62" height="9" fill="#8d5716"/>
+  </g>
+
+  <!-- table + mug -->
+  <rect x="352" y="252" width="330" height="12" rx="6" fill="#6b4220"/>
+  <rect x="392" y="264" width="12" height="42" fill="#563518"/>
+  <rect x="630" y="264" width="12" height="42" fill="#563518"/>
+  <g>
+    <rect x="470" y="216" width="38" height="36" rx="6" fill="#eef3fa"/>
+    <path d="M508 226 h9 a10 10 0 0 1 0 20 h-9" fill="none" stroke="#eef3fa" stroke-width="5"/>
+    <ellipse cx="489" cy="216" rx="19" ry="5" fill="#c9d4e4"/>
+    <path d="M482 208 q4 -9 0 -18" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="2.6s" repeatCount="indefinite"/></path>
+    <path d="M496 208 q4 -9 0 -18" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="3.1s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g transform="translate(60,300)"><g transform="scale(1.5)"><animateTransform attributeName="transform" type="scale" values="1.5,1.5;1.65,1.98;1.4,1.29;1.5,1.5" dur="3.1s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(130,300)"><g transform="scale(1.05)"><animateTransform attributeName="transform" type="scale" values="1.05,1.05;1.16,1.39;0.98,0.9;1.05,1.05" dur="2.2s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(190,300)"><g transform="scale(1.35)"><animateTransform attributeName="transform" type="scale" values="1.35,1.35;1.49,1.78;1.26,1.16;1.35,1.35" dur="2.7s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(760,300)"><g transform="scale(1.25)"><animateTransform attributeName="transform" type="scale" values="1.25,1.25;1.38,1.65;1.16,1.07;1.25,1.25" dur="2.4s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(830,300)"><g transform="scale(1.6)"><animateTransform attributeName="transform" type="scale" values="1.6,1.6;1.76,2.11;1.49,1.38;1.6,1.6" dur="3.4s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(900,300)"><g transform="scale(1.1)"><animateTransform attributeName="transform" type="scale" values="1.1,1.1;1.21,1.45;1.02,0.95;1.1,1.1" dur="2.0s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(965,300)"><g transform="scale(1.45)"><animateTransform attributeName="transform" type="scale" values="1.45,1.45;1.59,1.91;1.35,1.25;1.45,1.45" dur="2.9s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(1035,300)"><g transform="scale(1.2)"><animateTransform attributeName="transform" type="scale" values="1.2,1.2;1.32,1.58;1.12,1.03;1.2,1.2" dur="2.6s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(8,300)"><g transform="scale(0.75)"><animateTransform attributeName="transform" type="scale" values="0.75,0.75;0.83,0.99;0.7,0.65;0.75,0.75" dur="1.9s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g><g transform="translate(690,300)"><g transform="scale(0.8)"><animateTransform attributeName="transform" type="scale" values="0.8,0.8;0.88,1.06;0.74,0.69;0.8,0.8" dur="2.3s" repeatCount="indefinite"/><use href="#flame" x="-20" y="-60" width="40" height="60"/></g></g>
+
+  <!-- speech bubble -->
+  <g>
+    <path d="M700 44 h330 a16 16 0 0 1 16 16 v92 a16 16 0 0 1 -16 16 h-238 l-34 34 v-34 h-58 a16 16 0 0 1 -16 -16 v-92 a16 16 0 0 1 16 -16 z" fill="#f5f7fb"/>
+    <text x="865" y="112" text-anchor="middle" fill="#141a24" font-family="'Arial Black','Segoe UI Black',Impact,sans-serif" font-size="46">THIS IS FINE.</text>
+  </g>
+  <text x="550" y="330" text-anchor="middle" fill="#ffb27a" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16">// me, 10 minutes before the incident review</text>
+</g>
+</svg>
