@@ -54,26 +54,22 @@ $ npm run deploy
 
 ## 🐍 CONTRIBUTION SNAKE
 
-> After you create the repo on GitHub, replace `YOUR_GITHUB_USERNAME` in `.github/workflows/snake.yml`.
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/dung-dev-club/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/godd4mnit/hehe/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
 
 ## 🎰 GITHUB ARCADE
 
-> Replace `YOUR_GITHUB_USERNAME` below with your GitHub username.
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=godd4mnit&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godd4mnit&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=godd4mnit&theme=radical&hide_border=true" />
 
 </div>
 
