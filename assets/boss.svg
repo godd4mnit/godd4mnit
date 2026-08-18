@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="300" viewBox="0 0 1160 300" role="img" aria-label="final boss">
+<defs><clipPath id="bc"><rect width="1160" height="300" rx="20"/></clipPath></defs>
+<g clip-path="url(#bc)">
+<rect width="1160" height="300" fill="#2b1055"/>
+<g fill="#ffffff">
+  <circle cx="90" cy="52" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="320" cy="34" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="880" cy="60" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="30" r="2.5"><animate attributeName="opacity" values="1;0.3;1" dur="1.9s" repeatCount="indefinite"/></circle>
+</g>
+<text x="580" y="52" text-anchor="middle" fill="#ff5252" font-family="'Arial Black',Impact,sans-serif" font-size="26">! FINAL BOSS !
+  <animate attributeName="opacity" values="1;0.25;1" dur="0.9s" repeatCount="indefinite"/></text>
+<rect x="230" y="72" width="700" height="30" rx="15" fill="#16213e" stroke="#000000" stroke-width="4"/>
+<rect x="235" y="77" width="690" height="20" rx="10" fill="#ff5252">
+  <animate attributeName="width" values="690;690;120;120;690" keyTimes="0;0.18;0.62;0.82;1" dur="9s" repeatCount="indefinite"/></rect>
+<text x="580" y="128" text-anchor="middle" fill="#ffeb3b" font-family="'Arial Black',Impact,sans-serif" font-size="19">UNDEFINED IS NOT A FUNCTION</text>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="1.3s" repeatCount="indefinite"/>
+  <ellipse cx="580" cy="212" rx="74" ry="60" fill="#7c4dff" stroke="#000000" stroke-width="5"/>
+  <circle cx="552" cy="196" r="17" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="608" cy="196" r="17" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="556" cy="200" r="7" fill="#000000"><animate attributeName="cx" values="556;548;560;556" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="612" cy="200" r="7" fill="#000000"><animate attributeName="cx" values="612;604;616;612" dur="2.6s" repeatCount="indefinite"/></circle>
+  <path d="M548 240 q32 -22 64 0" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M506 172 l-34 -30 M654 172 l34 -30" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="470" cy="140" r="8" fill="#7c4dff" stroke="#000000" stroke-width="4"/>
+  <circle cx="690" cy="140" r="8" fill="#7c4dff" stroke="#000000" stroke-width="4"/>
+</g>
+<text x="200" y="224" text-anchor="middle" fill="#8fb4e8" font-family="'Arial Black',Impact,sans-serif" font-size="16">ATTEMPTS</text>
+<text x="200" y="254" text-anchor="middle" fill="#ffeb3b" font-family="'Arial Black',Impact,sans-serif" font-size="24">1,204</text>
+<text x="960" y="224" text-anchor="middle" fill="#8fb4e8" font-family="'Arial Black',Impact,sans-serif" font-size="16">STATUS</text>
+<text x="960" y="254" text-anchor="middle" fill="#ff5252" font-family="'Arial Black',Impact,sans-serif" font-size="24">STILL ALIVE</text>
+</g></svg>

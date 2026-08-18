@@ -2,76 +2,78 @@
 
 <img src="./assets/header.svg" width="100%" alt="godd4mnit" />
 
-<img src="https://img.shields.io/badge/works%20on-my%20machine-2ea44f?style=for-the-badge" alt="works on my machine" />
-<img src="https://img.shields.io/badge/tests-skipped-e5534b?style=for-the-badge" alt="tests skipped" />
-<img src="https://img.shields.io/badge/bugs-are%20features-8957e5?style=for-the-badge" alt="bugs are features" />
-<img src="https://img.shields.io/badge/deploys-on%20friday-000000?style=for-the-badge" alt="deploys on friday" />
-<img src="https://img.shields.io/badge/stack%20overflow-copy%20pasted-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stack overflow" />
-<img src="https://komarev.com/ghpvc/?username=godd4mnit&style=for-the-badge&color=ff2e7e&label=WITNESSES" alt="profile views" />
+<img src="https://img.shields.io/badge/PLAYER-godd4mnit-ffeb3b?style=for-the-badge&labelColor=16213e" alt="player" />
+<img src="https://img.shields.io/badge/LEVEL-99-4ade80?style=for-the-badge&labelColor=16213e" alt="level" />
+<img src="https://img.shields.io/badge/LIVES-1-ff5252?style=for-the-badge&labelColor=16213e" alt="lives" />
+<img src="https://img.shields.io/badge/DIFFICULTY-PRODUCTION-a06cd5?style=for-the-badge&labelColor=16213e" alt="difficulty" />
+<img src="https://komarev.com/ghpvc/?username=godd4mnit&style=for-the-badge&color=ffeb3b&labelColor=16213e&label=CREDITS+INSERTED" alt="views" />
 
 <img src="./assets/marquee.svg" width="100%" alt="tech stack" />
 
 </div>
 
-## 💀 `whoami`
+## 🎮 PLAYER 1 — SELECT
 
 ```js
-const godd4mnit = {
-  role:      "it worked yesterday",
-  editor:    "whichever one is already open",
-  os:        "the one that broke last",
-  currently: "reading a stack trace I have read before",
-  hobbies:   ["renaming variables", "reopening closed tickets"],
-  fun_fact:  "I have never read a README. Including this one.",
+const player = {
+  class:       "Backend",
+  weapon:      "Ctrl+C, Ctrl+V",
+  armor:       "it worked yesterday",
+  passive:     "summons bugs when confident",
+  weakness:    ["CSS", "timezones", "regex", "naming things"],
+  ultimate:    "rm -rf node_modules && npm install",
+  catchphrase: "works on my machine",
 }
 ```
 
 <br/>
 
-## 🔥 Current production status
+## 📊 PLAYER STATS
 
 <div align="center">
-  <img src="./assets/this-is-fine.svg" width="96%" alt="this is fine" />
+  <img src="./assets/stats.svg" width="97%" alt="player stats" />
 </div>
 
 <br/>
 
-## 📊 Skill tree
+## 😂 MEME WALL
 
 <div align="center">
-  <img src="./assets/skills.svg" width="94%" alt="skill levels" />
+  <img src="./assets/memes.svg" width="97%" alt="meme panels" />
 </div>
 
 <br/>
 
-## 🖥️ `git log --oneline`
+## 👾 FINAL BOSS
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="94%" alt="terminal session" />
+  <img src="./assets/boss.svg" width="97%" alt="final boss" />
 </div>
 
 <br/>
 
-## 🧠 The evolution of a developer
+## 🕹️ CHEAT CODES
 
 ```txt
-🧠            if (isReady == true) { }
-🧠✨          if (isReady === true) { }
-🧠💡          if (isReady) { }
-🧠🌌          if (!!isReady) { }
-🌟🧠🌟        if (Boolean(isReady) === !!true) { } // peer reviewer has left the company
+↑ ↑ ↓ ↓ ← → ← → B A     →  all tests pass (do not ask how)
+git push --force          →  invincibility. single use. ends friendships.
+rm -rf node_modules       →  full heal. costs 4 minutes and 1.2 GB.
+console.log("here")       →  reveals map
+console.log("here2")      →  reveals map again, you still do not know
+--force --no-verify       →  disables all safety. speedrun mode.
+LGTM 🚀                    →  skip cutscene
 ```
 
 <br/>
 
-## 🗿 Drake, but it's my workflow
+## 🗿 CHOOSE YOUR PATH
 
 <div align="center">
 
-| 🙅 **Absolutely not** | 🙆 **Say less** |
+| 🙅 **PRESS B** | 🙆 **PRESS A** |
 |:---|:---|
 | Writing unit tests | `console.log("here")` |
-| Reading the official docs | A 2014 Stack Overflow answer with 3 upvotes |
+| Reading the official docs | A 2014 Stack Overflow answer, 3 upvotes |
 | `git merge` and resolving conflicts | `git push --force` and a short prayer |
 | Descriptive commit messages | `fix` |
 | Refactoring the legacy module | `// TODO: refactor` (added 2019, still there) |
@@ -81,10 +83,10 @@ const godd4mnit = {
 
 <br/>
 
-## 📂 Click at your own risk
+## 📂 SECRET ROOMS — enter at your own risk
 
 <details>
-<summary><b>🔍 My debugging methodology</b></summary>
+<summary><b>🔍 BOSS STRATEGY: how I debug</b></summary>
 
 ```js
 console.log("1")
@@ -93,50 +95,50 @@ console.log("HERE")
 console.log("WHY")
 console.log("WHYYYY")
 console.log("😭")
-// bug fixed. do not know which line did it. do not remove any of them.
+// bug fixed. no idea which line did it. removing none of them.
 ```
 
 </details>
 
 <details>
-<summary><b>🧪 My testing strategy</b></summary>
+<summary><b>🧪 QUEST LOG: my testing strategy</b></summary>
 
 1. Open the app.
 2. Click around a bit.
 3. Looks fine.
-4. Ship.
+4. Ship it.
 5. Get paged at 2am.
 6. Return to step 1 with significantly more emotion.
 
 </details>
 
 <details>
-<summary><b>🤝 How to collaborate with me</b></summary>
+<summary><b>🤝 CO-OP MODE: how to work with me</b></summary>
 
 - Do **not** ask why it works.
 - Do **not** ask why it stopped working.
-- If you touch the config file, you own it now. That is the law.
+- Touch the config file and you own it now. That is the law.
 - "It's a quick fix" is a threat, not an estimate.
 - I will approve your PR in 4 seconds. I did not read it. LGTM 🚀
 
 </details>
 
 <details>
-<summary><b>💼 Skills I actually have (seriously this time)</b></summary>
+<summary><b>💼 TRUE ENDING: skills I actually have</b></summary>
 
 <br/>
 
-Okay, jokes aside — the real stack:
+Jokes aside — the real stack:
 
 `TypeScript` · `Node.js` · `NestJS` · `React` · `PostgreSQL` · `Redis` · `Docker` · `AWS` · `REST & WebSocket APIs`
 
-Genuinely interested in backend architecture, developer tooling, and shipping things that don't wake me up at night.
+Genuinely into backend architecture, developer tooling, and shipping things that don't wake me up at night.
 
 </details>
 
 <br/>
 
-## 🐍 Watch a snake eat my commits
+## 🐍 BONUS STAGE — the snake eats my commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/godd4mnit/godd4mnit/gh-pages/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
@@ -144,30 +146,30 @@ Genuinely interested in backend architecture, developer tooling, and shipping th
 
 <br/>
 
-## 📈 Numbers that prove nothing
+## 🏆 HIGH SCORES
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=godd4mnit&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f18&title_color=ff2e7e&icon_color=00e7ff" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godd4mnit&layout=compact&theme=radical&hide_border=true&bg_color=0b0f18&title_color=ff2e7e" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=godd4mnit&show_icons=true&hide_border=true&bg_color=1b2a4a&title_color=ffeb3b&text_color=e8f1ff&icon_color=4ade80" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godd4mnit&layout=compact&hide_border=true&bg_color=1b2a4a&title_color=ffeb3b&text_color=e8f1ff" alt="top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=godd4mnit&theme=radical&hide_border=true&background=0b0f18&ring=ff2e7e&fire=00e7ff" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=godd4mnit&hide_border=true&background=1b2a4a&ring=ffeb3b&fire=ff5252&currStreakLabel=ffeb3b&sideLabels=e8f1ff&dates=8fb4e8" alt="streak" />
 
 </div>
 
 <br/>
 
-## 📜 The commandments
+## 📜 RULES OF THE ARCADE
 
-> **I.** Thou shalt not deploy on Friday. Unless it would be funny.
-> **II.** `works on my machine` is legally binding.
-> **III.** Every bug is a feature that has not been documented yet.
-> **IV.** If the tests pass on the first try, be afraid.
-> **V.** The build is green. Nobody knows why. Do not investigate.
-> **VI.** `rm -rf node_modules` is a valid debugging step and a lifestyle.
+> **1UP.** Thou shalt not deploy on Friday. Unless it would be funny.
+> **2UP.** `works on my machine` is legally binding.
+> **3UP.** Every bug is an undocumented feature.
+> **4UP.** If the tests pass on the first try, be afraid.
+> **5UP.** The build is green. Nobody knows why. Do not investigate.
+> **6UP.** `rm -rf node_modules` is a valid debugging step and a lifestyle.
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer" />
+  <img src="./assets/footer.svg" width="100%" alt="game over" />
 </div>

@@ -1,23 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="footer">
-  <defs>
-    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#141c2b"/><stop offset="1" stop-color="#070910"/>
-    </linearGradient>
-    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#1b2434" stroke-width="1"/>
-    </pattern>
-    <clipPath id="fc"><rect width="1200" height="210" rx="18"/></clipPath>
-  </defs>
-  <g clip-path="url(#fc)">
-    <rect width="1200" height="210" fill="url(#fbg)"/>
-    <rect width="1200" height="210" fill="url(#fgrid)"/>
-    <text x="600" y="80" text-anchor="middle" fill="#ffffff" font-family="'Arial Black','Segoe UI Black',Impact,sans-serif" font-size="42">IT COMPILED. SHIP IT.</text>
-    <text x="600" y="122" text-anchor="middle" fill="#ff2e7e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19">no tests were harmed in the making of this repo</text>
-    <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6d7d95">
-      <text x="600" y="162" text-anchor="middle">star the repo <tspan fill="#48d597">/</tspan> steal the memes <tspan fill="#48d597">/</tspan> never deploy on friday</text>
-      <text x="600" y="188" text-anchor="middle" fill="#4a5871">exit code 0 (somehow)</text>
-    </g>
-    <circle cx="70" cy="105" r="10" fill="#ff2e7e"><animate attributeName="r" values="7;14;7" dur="2s" repeatCount="indefinite"/></circle>
-    <circle cx="1130" cy="105" r="10" fill="#00e7ff"><animate attributeName="r" values="14;7;14" dur="2s" repeatCount="indefinite"/></circle>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="game over">
+<defs><clipPath id="fc"><rect width="1200" height="230" rx="18"/></clipPath></defs>
+<g clip-path="url(#fc)">
+<rect width="1200" height="230" fill="#16213e"/>
+<g stroke="#1e3a6b" stroke-width="2">
+  <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200"/>
+  <path d="M100 0 V230 M300 0 V230 M500 0 V230 M700 0 V230 M900 0 V230 M1100 0 V230"/>
+</g>
+<text x="600" y="92" text-anchor="middle" fill="#ff5252" font-family="'Arial Black',Impact,sans-serif" font-size="52" stroke="#000000" stroke-width="7" paint-order="stroke fill">GAME OVER</text>
+<text x="600" y="140" text-anchor="middle" fill="#ffeb3b" font-family="'Arial Black',Impact,sans-serif" font-size="24">INSERT COIN TO CONTINUE
+  <animate attributeName="opacity" values="1;1;0.15;1" dur="1.5s" repeatCount="indefinite"/></text>
+<text x="600" y="180" text-anchor="middle" fill="#8fb4e8" font-family="'Arial Black',Impact,sans-serif" font-size="16">THANKS FOR PLAYING &#9670; STAR THE REPO &#9670; NEVER DEPLOY ON FRIDAY</text>
+<g fill="#ffc107" stroke="#e65100" stroke-width="4">
+  <ellipse cx="150" cy="150" rx="19" ry="24"><animate attributeName="rx" values="19;4;19" dur="1.2s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="1050" cy="150" rx="19" ry="24"><animate attributeName="rx" values="4;19;4" dur="1.2s" repeatCount="indefinite"/></ellipse>
+</g>
+</g></svg>

@@ -1,20 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="tech stack marquee">
-  <defs>
-    <clipPath id="m"><rect width="1200" height="96" rx="16"/></clipPath>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#070910"/>
-      <stop offset="0.06" stop-color="#070910" stop-opacity="0"/>
-      <stop offset="0.94" stop-color="#070910" stop-opacity="0"/>
-      <stop offset="1" stop-color="#070910"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="96" rx="16" fill="#0b0f18" stroke="#2c3a52"/>
-  <g clip-path="url(#m)">
-    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="700" fill="#e8eefb">
-      <text x="0" y="60" textLength="1700" lengthAdjust="spacing">TYPESCRIPT <tspan fill="#ff2e7e">/</tspan> NODE.JS <tspan fill="#ff2e7e">/</tspan> NESTJS <tspan fill="#ff2e7e">/</tspan> REACT <tspan fill="#ff2e7e">/</tspan> DOCKER <tspan fill="#ff2e7e">/</tspan> POSTGRES <tspan fill="#ff2e7e">/</tspan> REDIS <tspan fill="#ff2e7e">/</tspan> AWS <tspan fill="#ff2e7e">/</tspan> GIT BLAME <tspan fill="#ff2e7e">/</tspan> COFFEE <tspan fill="#ff2e7e">/</tspan> RAGE <tspan fill="#ff2e7e">/</tspan> </text>
-      <text x="1700" y="60" textLength="1700" lengthAdjust="spacing">TYPESCRIPT <tspan fill="#ff2e7e">/</tspan> NODE.JS <tspan fill="#ff2e7e">/</tspan> NESTJS <tspan fill="#ff2e7e">/</tspan> REACT <tspan fill="#ff2e7e">/</tspan> DOCKER <tspan fill="#ff2e7e">/</tspan> POSTGRES <tspan fill="#ff2e7e">/</tspan> REDIS <tspan fill="#ff2e7e">/</tspan> AWS <tspan fill="#ff2e7e">/</tspan> GIT BLAME <tspan fill="#ff2e7e">/</tspan> COFFEE <tspan fill="#ff2e7e">/</tspan> RAGE <tspan fill="#ff2e7e">/</tspan> </text>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1700 0" dur="22s" repeatCount="indefinite"/>
-    </g>
-    <rect width="1200" height="96" fill="url(#fade)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="tech stack">
+<defs><clipPath id="mc"><rect width="1200" height="92" rx="14"/></clipPath></defs>
+<rect width="1200" height="92" rx="14" fill="#16213e" stroke="#0d47a1" stroke-width="5"/>
+<g clip-path="url(#mc)">
+  <g font-family="'Arial Black',Impact,sans-serif" font-size="26" fill="#ffeb3b">
+    <text x="0" y="58" textLength="1500" lengthAdjust="spacing">TYPESCRIPT &#9670; NODE.JS &#9670; NESTJS &#9670; REACT &#9670; DOCKER &#9670; POSTGRES &#9670; REDIS &#9670; AWS &#9670; COFFEE &#9670; </text>
+    <text x="1500" y="58" textLength="1500" lengthAdjust="spacing">TYPESCRIPT &#9670; NODE.JS &#9670; NESTJS &#9670; REACT &#9670; DOCKER &#9670; POSTGRES &#9670; REDIS &#9670; AWS &#9670; COFFEE &#9670; </text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1500 0" dur="20s" repeatCount="indefinite"/>
   </g>
+</g>
 </svg>

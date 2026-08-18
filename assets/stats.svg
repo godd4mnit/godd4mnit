@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="482" viewBox="0 0 1160 482" role="img" aria-label="player stats">
+<rect width="1160" height="482" rx="20" fill="#1b2a4a" stroke="#0d47a1" stroke-width="5"/>
+<text x="40" y="62" fill="#ffeb3b" font-family="'Arial Black',Impact,sans-serif" font-size="30">PLAYER STATS</text>
+<text x="40" y="90" fill="#8fb4e8" font-family="'Arial Black',Impact,sans-serif" font-size="15">LEVEL 99 &#9670; CLASS: BACKEND &#9670; XP: MOSTLY REGRET</text>
+<g font-family="'Arial Black',Impact,sans-serif" font-size="16">
+<text x="40" y="128" fill="#e8f1ff">GOOGLING</text>
+<rect x="560" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.0s" fill="freeze"/></rect>
+<rect x="608" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.07s" fill="freeze"/></rect>
+<rect x="656" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.14s" fill="freeze"/></rect>
+<rect x="704" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.21s" fill="freeze"/></rect>
+<rect x="752" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.28s" fill="freeze"/></rect>
+<rect x="800" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.35s" fill="freeze"/></rect>
+<rect x="848" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.42s" fill="freeze"/></rect>
+<rect x="896" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.49s" fill="freeze"/></rect>
+<rect x="944" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.56s" fill="freeze"/></rect>
+<rect x="992" y="108" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.63s" fill="freeze"/></rect>
+<text x="1054" y="128" fill="#4ade80">100%</text>
+<text x="40" y="170" fill="#e8f1ff">COPY-PASTE FROM STACK OVERFLOW</text>
+<rect x="560" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.21s" fill="freeze"/></rect>
+<rect x="608" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.28s" fill="freeze"/></rect>
+<rect x="656" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.35s" fill="freeze"/></rect>
+<rect x="704" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.42s" fill="freeze"/></rect>
+<rect x="752" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.49s" fill="freeze"/></rect>
+<rect x="800" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.56s" fill="freeze"/></rect>
+<rect x="848" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.63s" fill="freeze"/></rect>
+<rect x="896" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.7s" fill="freeze"/></rect>
+<rect x="944" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.77s" fill="freeze"/></rect>
+<rect x="992" y="150" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.84s" fill="freeze"/></rect>
+<text x="1054" y="170" fill="#4ade80">100%</text>
+<text x="40" y="212" fill="#e8f1ff">console.log() DEBUGGING</text>
+<rect x="560" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.42s" fill="freeze"/></rect>
+<rect x="608" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.49s" fill="freeze"/></rect>
+<rect x="656" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.56s" fill="freeze"/></rect>
+<rect x="704" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.63s" fill="freeze"/></rect>
+<rect x="752" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.7s" fill="freeze"/></rect>
+<rect x="800" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.77s" fill="freeze"/></rect>
+<rect x="848" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.84s" fill="freeze"/></rect>
+<rect x="896" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.91s" fill="freeze"/></rect>
+<rect x="944" y="192" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.98s" fill="freeze"/></rect>
+<rect x="992" y="192" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<text x="1054" y="212" fill="#4ade80">90%</text>
+<text x="40" y="254" fill="#e8f1ff">"WORKS ON MY MACHINE"</text>
+<rect x="560" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.63s" fill="freeze"/></rect>
+<rect x="608" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.7s" fill="freeze"/></rect>
+<rect x="656" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.77s" fill="freeze"/></rect>
+<rect x="704" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.84s" fill="freeze"/></rect>
+<rect x="752" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.91s" fill="freeze"/></rect>
+<rect x="800" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.98s" fill="freeze"/></rect>
+<rect x="848" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.05s" fill="freeze"/></rect>
+<rect x="896" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.12s" fill="freeze"/></rect>
+<rect x="944" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.19s" fill="freeze"/></rect>
+<rect x="992" y="234" width="42" height="22" rx="3" fill="#4ade80" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.26s" fill="freeze"/></rect>
+<text x="1054" y="254" fill="#4ade80">100%</text>
+<text x="40" y="296" fill="#e8f1ff">BLAMING THE INTERN</text>
+<rect x="560" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.84s" fill="freeze"/></rect>
+<rect x="608" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.91s" fill="freeze"/></rect>
+<rect x="656" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="0.98s" fill="freeze"/></rect>
+<rect x="704" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.05s" fill="freeze"/></rect>
+<rect x="752" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.12s" fill="freeze"/></rect>
+<rect x="800" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.19s" fill="freeze"/></rect>
+<rect x="848" y="276" width="42" height="22" rx="3" fill="#ffd93d" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.26s" fill="freeze"/></rect>
+<rect x="896" y="276" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="944" y="276" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="992" y="276" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<text x="1054" y="296" fill="#ffd93d">70%</text>
+<text x="40" y="338" fill="#e8f1ff">NAMING VARIABLES</text>
+<rect x="560" y="318" width="42" height="22" rx="3" fill="#ff9f1c" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.05s" fill="freeze"/></rect>
+<rect x="608" y="318" width="42" height="22" rx="3" fill="#ff9f1c" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.12s" fill="freeze"/></rect>
+<rect x="656" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="704" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="752" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="800" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="848" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="896" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="944" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="992" y="318" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<text x="1054" y="338" fill="#ff9f1c">20%</text>
+<text x="40" y="380" fill="#e8f1ff">WRITING TESTS</text>
+<rect x="560" y="360" width="42" height="22" rx="3" fill="#ff5252" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.26s" fill="freeze"/></rect>
+<rect x="608" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="656" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="704" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="752" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="800" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="848" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="896" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="944" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="992" y="360" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<text x="1054" y="380" fill="#ff5252">10%</text>
+<text x="40" y="422" fill="#e8f1ff">READING THE DOCS</text>
+<rect x="560" y="402" width="42" height="22" rx="3" fill="#ff5252" stroke="#0d47a1" stroke-width="2"><animate attributeName="opacity" values="0;1" dur="0.16s" begin="1.47s" fill="freeze"/></rect>
+<rect x="608" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="656" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="704" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="752" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="800" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="848" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="896" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="944" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<rect x="992" y="402" width="42" height="22" rx="3" fill="#16213e" stroke="#0d47a1" stroke-width="2"></rect>
+<text x="1054" y="422" fill="#ff5252">10%</text>
+</g></svg>
